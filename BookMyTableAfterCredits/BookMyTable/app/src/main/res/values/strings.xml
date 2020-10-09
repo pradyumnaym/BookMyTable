@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookMyTable</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+</resources>

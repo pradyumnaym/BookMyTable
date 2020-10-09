@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46660728762",
+    "firebase_url": "https://bookmytable-f636c.firebaseio.com",
+    "project_id": "bookmytable-f636c",
+    "storage_bucket": "bookmytable-f636c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46660728762:android:ef386b2fcb2aed8b",
+        "android_client_info": {
+          "package_name": "com.example.bookmytable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46660728762-cu1jri11ma73ed4m5d883un0grq539jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookmytable",
+            "certificate_hash": "416b1960d4dc94865cd202b7ccaeab51e128fafd"
+          }
+        },
+        {
+          "client_id": "46660728762-ouotrc69o1lc2gl8p8l2dudpp1c4fn05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFa9JPz_Vi8DlhlKpejeQtQ5WDkxxiLdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46660728762-ouotrc69o1lc2gl8p8l2dudpp1c4fn05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
